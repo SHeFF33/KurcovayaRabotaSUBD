@@ -1,0 +1,76 @@
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya\WinFormsAppKursovaya\bin\Debug\net6.0-windows\WinFormsAppKursovaya.exe
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya\WinFormsAppKursovaya\bin\Debug\net6.0-windows\WinFormsAppKursovaya.deps.json
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya\WinFormsAppKursovaya\bin\Debug\net6.0-windows\WinFormsAppKursovaya.runtimeconfig.json
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya\WinFormsAppKursovaya\bin\Debug\net6.0-windows\WinFormsAppKursovaya.dll
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya\WinFormsAppKursovaya\bin\Debug\net6.0-windows\WinFormsAppKursovaya.pdb
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya\WinFormsAppKursovaya\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya\WinFormsAppKursovaya\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya\WinFormsAppKursovaya\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya\WinFormsAppKursovaya\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya\WinFormsAppKursovaya\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya\WinFormsAppKursovaya\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya\WinFormsAppKursovaya\obj\Debug\net6.0-windows\WinFormsAppKursovaya.csproj.AssemblyReference.cache
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya\WinFormsAppKursovaya\obj\Debug\net6.0-windows\WinFormsAppKursovaya.Loginform.resources
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya\WinFormsAppKursovaya\obj\Debug\net6.0-windows\WinFormsAppKursovaya.Properties.Resources.resources
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya\WinFormsAppKursovaya\obj\Debug\net6.0-windows\WinFormsAppKursovaya.csproj.GenerateResource.cache
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya\WinFormsAppKursovaya\obj\Debug\net6.0-windows\WinFormsAppKursovaya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya\WinFormsAppKursovaya\obj\Debug\net6.0-windows\WinFormsAppKursovaya.AssemblyInfoInputs.cache
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya\WinFormsAppKursovaya\obj\Debug\net6.0-windows\WinFormsAppKursovaya.AssemblyInfo.cs
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya\WinFormsAppKursovaya\obj\Debug\net6.0-windows\WinFormsAppKursovaya.csproj.CoreCompileInputs.cache
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya\WinFormsAppKursovaya\obj\Debug\net6.0-windows\WinFormsAppKursovaya.csproj.CopyComplete
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya\WinFormsAppKursovaya\obj\Debug\net6.0-windows\WinFormsAppKursovaya.dll
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya\WinFormsAppKursovaya\obj\Debug\net6.0-windows\refint\WinFormsAppKursovaya.dll
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya\WinFormsAppKursovaya\obj\Debug\net6.0-windows\WinFormsAppKursovaya.pdb
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya\WinFormsAppKursovaya\obj\Debug\net6.0-windows\WinFormsAppKursovaya.genruntimeconfig.cache
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya\WinFormsAppKursovaya\obj\Debug\net6.0-windows\ref\WinFormsAppKursovaya.dll
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya\WinFormsAppKursovaya\obj\Debug\net6.0-windows\WinFormsAppKursovaya.Registrationform.resources
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya\WinFormsAppKursovaya\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya\WinFormsAppKursovaya\bin\Debug\net6.0-windows\Azure.Data.Tables.dll
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya\WinFormsAppKursovaya\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya\WinFormsAppKursovaya\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya\WinFormsAppKursovaya\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya\WinFormsAppKursovaya\obj\Debug\net6.0-windows\WinFormsAppKursovaya.FormPhones.resources
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya\WinFormsAppKursovaya\obj\Debug\net6.0-windows\WinFormsAppKursovaya.FormAdd.resources
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya\WinFormsAppKursovaya\obj\Debug\net6.0-windows\WinFormsAppKursovaya.FormAddAccess.resources
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya\WinFormsAppKursovaya\obj\Debug\net6.0-windows\WinFormsAppKursovaya.AddServices.resources
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya\WinFormsAppKursovaya\obj\Debug\net6.0-windows\WinFormsAppKursovaya.FormUsers.resources
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya\WinFormsAppKursovaya\obj\Debug\net6.0-windows\WinFormsAppKursovaya.Администратор.resources
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya\WinFormsAppKursovaya\obj\Debug\net6.0-windows\WinFormsAppKursovaya.alltablesform.resources
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya — копия финальная\WinFormsAppKursovaya\bin\Debug\net6.0-windows\WinFormsAppKursovaya.exe
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya — копия финальная\WinFormsAppKursovaya\bin\Debug\net6.0-windows\WinFormsAppKursovaya.deps.json
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya — копия финальная\WinFormsAppKursovaya\bin\Debug\net6.0-windows\WinFormsAppKursovaya.runtimeconfig.json
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya — копия финальная\WinFormsAppKursovaya\bin\Debug\net6.0-windows\WinFormsAppKursovaya.dll
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya — копия финальная\WinFormsAppKursovaya\bin\Debug\net6.0-windows\WinFormsAppKursovaya.pdb
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya — копия финальная\WinFormsAppKursovaya\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya — копия финальная\WinFormsAppKursovaya\bin\Debug\net6.0-windows\Azure.Data.Tables.dll
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya — копия финальная\WinFormsAppKursovaya\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya — копия финальная\WinFormsAppKursovaya\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya — копия финальная\WinFormsAppKursovaya\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya — копия финальная\WinFormsAppKursovaya\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya — копия финальная\WinFormsAppKursovaya\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya — копия финальная\WinFormsAppKursovaya\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya — копия финальная\WinFormsAppKursovaya\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya — копия финальная\WinFormsAppKursovaya\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya — копия финальная\WinFormsAppKursovaya\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya — копия финальная\WinFormsAppKursovaya\obj\Debug\net6.0-windows\WinFormsAppKursovaya.csproj.AssemblyReference.cache
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya — копия финальная\WinFormsAppKursovaya\obj\Debug\net6.0-windows\WinFormsAppKursovaya.AddServices.resources
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya — копия финальная\WinFormsAppKursovaya\obj\Debug\net6.0-windows\WinFormsAppKursovaya.alltablesform.resources
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya — копия финальная\WinFormsAppKursovaya\obj\Debug\net6.0-windows\WinFormsAppKursovaya.Loginform.resources
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya — копия финальная\WinFormsAppKursovaya\obj\Debug\net6.0-windows\WinFormsAppKursovaya.FormAdd.resources
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya — копия финальная\WinFormsAppKursovaya\obj\Debug\net6.0-windows\WinFormsAppKursovaya.FormAddAccess.resources
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya — копия финальная\WinFormsAppKursovaya\obj\Debug\net6.0-windows\WinFormsAppKursovaya.FormPhones.resources
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya — копия финальная\WinFormsAppKursovaya\obj\Debug\net6.0-windows\WinFormsAppKursovaya.FormUsers.resources
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya — копия финальная\WinFormsAppKursovaya\obj\Debug\net6.0-windows\WinFormsAppKursovaya.Properties.Resources.resources
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya — копия финальная\WinFormsAppKursovaya\obj\Debug\net6.0-windows\WinFormsAppKursovaya.Registrationform.resources
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya — копия финальная\WinFormsAppKursovaya\obj\Debug\net6.0-windows\WinFormsAppKursovaya.Администратор.resources
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya — копия финальная\WinFormsAppKursovaya\obj\Debug\net6.0-windows\WinFormsAppKursovaya.csproj.GenerateResource.cache
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya — копия финальная\WinFormsAppKursovaya\obj\Debug\net6.0-windows\WinFormsAppKursovaya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya — копия финальная\WinFormsAppKursovaya\obj\Debug\net6.0-windows\WinFormsAppKursovaya.AssemblyInfoInputs.cache
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya — копия финальная\WinFormsAppKursovaya\obj\Debug\net6.0-windows\WinFormsAppKursovaya.AssemblyInfo.cs
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya — копия финальная\WinFormsAppKursovaya\obj\Debug\net6.0-windows\WinFormsAppKursovaya.csproj.CoreCompileInputs.cache
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya — копия финальная\WinFormsAppKursovaya\obj\Debug\net6.0-windows\WinFormsAppKursovaya.csproj.CopyComplete
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya — копия финальная\WinFormsAppKursovaya\obj\Debug\net6.0-windows\WinFormsAppKursovaya.dll
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya — копия финальная\WinFormsAppKursovaya\obj\Debug\net6.0-windows\refint\WinFormsAppKursovaya.dll
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya — копия финальная\WinFormsAppKursovaya\obj\Debug\net6.0-windows\WinFormsAppKursovaya.pdb
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya — копия финальная\WinFormsAppKursovaya\obj\Debug\net6.0-windows\WinFormsAppKursovaya.genruntimeconfig.cache
+C:\Users\denzi\3 курс\СУБД\WinFormsAppKursovaya — копия финальная\WinFormsAppKursovaya\obj\Debug\net6.0-windows\ref\WinFormsAppKursovaya.dll
